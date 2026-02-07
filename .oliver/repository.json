@@ -2,8 +2,21 @@
   "version": "1.0",
   "projectId": "d865fad9-234a-48e4-9bb6-e2e55c4c92ea",
   "createdAt": "2026-02-07T05:22:17.928Z",
-  "updatedAt": "2026-02-07T05:22:17.928Z",
-  "files": [],
+  "updatedAt": "2026-02-07T05:22:37.862Z",
+  "files": [
+    {
+      "id": "04bc8149-129a-4f84-8087-594d8c6faae0",
+      "name": "regulatory-tracker-walkthrough (1).md",
+      "path": "repository/technical-specifications/regulatory-tracker-walkthrough (1).md",
+      "folder": "technical-specifications",
+      "mimeType": "application/octet-stream",
+      "size": 22104,
+      "sha": "d16420ead79a39547e3677413aa47e62df3ad3d1",
+      "createdAt": "2026-02-07T05:22:37.470Z",
+      "updatedAt": "2026-02-07T05:22:37.470Z",
+      "tags": []
+    }
+  ],
   "externalLinks": [],
-  "storageUsed": 0
+  "storageUsed": 22104
 }
