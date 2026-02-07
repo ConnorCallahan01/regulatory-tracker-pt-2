@@ -1,2 +1,12 @@
 # regulatory-tracker-pt-2
-Oliver project repository for d865fad9-234a-48e4-9bb6-e2e55c4c92ea
+
+Oliver project repository.
+
+## Folder Structure
+
+- `repository/workflow-analysis/`
+- `repository/business-case/`
+- `repository/ai-opportunity-assessment/`
+- `repository/functional-prototype/`
+- `repository/technical-specifications/`
+- `repository/meeting-notes/`
